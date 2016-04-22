@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package iut.tdd;
+=======
+	package iut.tdd;
+>>>>>>> 03efaaeb4df0caac397796883610f21f18d174b6
 		
 		public class RomanNumerals {
 			String [] Roman= new String []{"I","V","X","L","C","D","M"};
@@ -89,4 +93,8 @@ package iut.tdd;
 				return romain;
 			}
 		
+<<<<<<< HEAD
 		}
+=======
+		}
+>>>>>>> 03efaaeb4df0caac397796883610f21f18d174b6

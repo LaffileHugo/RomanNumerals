@@ -1,7 +1,10 @@
 package iut.tdd;
 
 import org.junit.Assert;
+<<<<<<< HEAD
 import org.junit.Test;
+=======
+>>>>>>> 03efaaeb4df0caac397796883610f21f18d174b6
 
 public class RomanNumeralsTest {
 
@@ -16,7 +19,10 @@ public class RomanNumeralsTest {
 		//Then
 		Assert.assertEquals(expected, actual);
 	}
+<<<<<<< HEAD
 	
+=======
+>>>>>>> 03efaaeb4df0caac397796883610f21f18d174b6
 	@Test
 	public void should_return_II_when_2 () {		
 		//Given
